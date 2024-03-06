@@ -1,0 +1,10 @@
+{
+    "name": "bk/wp-ez-cpts",
+    "description": "TODO",
+    "autoload": {
+        "psr-4": {
+            "BK\\EZCPT\\": "src/"
+        }
+    },
+    "require": {}
+}
